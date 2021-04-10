@@ -40,5 +40,24 @@
     "prettier": "2.2.1",
     "react-scripts": "4.0.3",
     "typescript": "^4.1.2"
-  }
+  },
+  "description": "## Folder Structure",
+  "main": "src/index.tsx",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navneetlal/react-redux-epic-ts.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "epic",
+    "typescript",
+    "rxjs"
+  ],
+  "author": "Navneet Lal Gupta <navneetlalg@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/navneetlal/react-redux-epic-ts/issues"
+  },
+  "homepage": "https://github.com/navneetlal/react-redux-epic-ts#readme"
 }
